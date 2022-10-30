@@ -16,6 +16,6 @@ public class insertionSort {
             }
             arr[j+1] = curr;
         }
-        printArr(arr);
+        printArr(arr); 
     }
 }
