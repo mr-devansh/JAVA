@@ -1,0 +1,10 @@
+examples 
+1. N queens problem
+2. Sudoku solver
+3. grid ways
+
+types or purposes of backtracking
+1. decision making
+2. optimization
+3. enumeration
+

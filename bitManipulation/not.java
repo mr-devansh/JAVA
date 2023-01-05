@@ -1,4 +1,4 @@
-package bitManipulation;
+    package bitManipulation;
 // also known as one's compliment
 public class not {
     public static void main(String[] args) {

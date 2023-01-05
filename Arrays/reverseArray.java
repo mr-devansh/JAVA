@@ -4,7 +4,7 @@ public class reverseArray {
     public static void reverse(int arr[]) {
         int f=0, l=arr.length-1;
         while (f < l) {
-// here = not used as first and last in mid would be same
+        // here = not used as first and last in mid would be same
             int temp= arr[l];
             arr[l]=arr[f];
             arr[f]=temp;
